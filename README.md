@@ -1,5 +1,5 @@
 # classification_latte_art
-개인 프로젝트 : 머신러닝과 PCA를 이용해 latte art 종류를 분별하는 프로젝트
+matlab project : 머신러닝과 PCA를 이용해 latte art 종류를 분별하는 프로젝트
 
 
 ## 못올린 파일 
