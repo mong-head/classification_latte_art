@@ -1,4 +1,7 @@
 # classification_latte_art
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 matlab project : 머신러닝과 PCA를 이용해 latte art 종류를 분별하는 프로젝트
 
 
